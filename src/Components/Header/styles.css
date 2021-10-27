@@ -1,5 +1,6 @@
 .header {
    height: 60px;
+   width: 100%;
    display: flex;
    align-items: center;
    background-color: #131921;
@@ -9,7 +10,7 @@
  }
  
  .header__logo {
-   width: 100px;
+   width: 90px;
    object-fit: contain;
    margin: 0 20px;
    margin-top: 18px;
